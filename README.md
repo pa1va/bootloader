@@ -37,4 +37,4 @@ Execute:
 qemu-system-x86_64 -drive format=raw,file=bootloader.bin
 ```
 
-QEMU iniciará uma máquina virtual e você verá a mensagem `Hello from MBR!` sendo exibida.
+QEMU iniciará uma máquina virtual e você verá a mensagem `Hello World!` sendo exibida.
